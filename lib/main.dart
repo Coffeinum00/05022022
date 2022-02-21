@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
             headline1: TextStyle(
           // fonty trzeba uzupełnić w pubspec.yaml i stworzyć na nie osobny folder  i plik
           fontFamily: 'Catamaran',
-          fontSize: 40,
+          fontSize: 38,
         )),
         primarySwatch: Colors.blue,
       ),
